@@ -2,6 +2,16 @@
     box-sizing: border-box;
 }
 
+html {
+    margin:0;
+    padding:0;
+    background: url(imgs/bg.jpg) no-repeat center fixed; 
+    background-size: cover;
+    font-family: 'Rubik', sans-serif;
+    width: 100%;
+    height: auto;
+}
+
 /* button + cover page */
 
 .b1 {
@@ -350,14 +360,4 @@ footer p {
     footer p {
         font-size:28px;
     }
-}
-
-html {
-    margin:0;
-    padding:0;
-    background: url(imgs/bg.jpg) no-repeat center fixed; 
-    background-size: cover;
-    font-family: 'Rubik', sans-serif;
-    width: 100%;
-    height: auto;
 }

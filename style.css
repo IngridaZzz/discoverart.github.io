@@ -3,13 +3,9 @@
 }
 
 html {
-    margin:0;
-    padding:0;
     background: url(imgs/bg.jpg) no-repeat center fixed; 
     background-size: cover;
     font-family: 'Rubik', sans-serif;
-    width: 100%;
-    height: auto;
 }
 
 /* button + cover page */
